@@ -1,6 +1,4 @@
-
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" /> Welcome to my GitHub! I'm Swati</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="44" height="44" /> Welcome to my GitHub! I'm Swati</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 <p align="justified">
   Data Analyst with over 2 years of hands-on experience in data manipulation, analysis, and visualization. My journey into the world of coding began 4 years ago when I decided to switch careers and dive into the fascinating realm of data science and analytics.</br>
