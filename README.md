@@ -10,8 +10,7 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
 </p>
 <p align="left">
 </br>🌍  I'm based in Bangalore<br>
-  🖥️  See my portfolio at <a href="https://swameher.vercel.app/" target="_blank" rel="noreferrer">yes! here 👀.</a><br>
-  ✉️  You can contact me at <a href="mailto:swati.meher10@gmail.com">swati.meher10@gmail.com</a><br>
+  🖥️  Click on snowflakes to explore my portfolio <a href="https://swameher.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" alt="Snowflake" width="25" height="25" /></a><br>
   🤝  I'm open to collaborating on interesting projects<br>
   ⚡  I'm secretly a SpiderGirl, don't tell anyone.
 </p>
@@ -72,6 +71,10 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="30" height="30" />
     </picture>
+  </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:swati.meher10@gmail.com" target="_blank" rel="noreferrer">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" alt="Email Icon" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.buymeacoffee.com/swatimeher10"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
