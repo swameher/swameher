@@ -14,7 +14,8 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
   ✉️  You can contact me at <a href="mailto:swati.meher10@gmail.com">swati.meher10@gmail.com</a><br>
   🤝  I'm open to collaborating on interesting projects<br>
   ⚡  I'm secretly a SpiderGirl, don't tell anyone.
-</p></br>
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3 align="center">SKILLS</h3>
 <p align="center">
@@ -39,16 +40,15 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="30" height="30" alt="Amazon Web Services" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" height="30" alt="Docker" /></a>
-</p></br>
+</p>
 
 <h3 align="center">BADGES</h3>
 <p align="center">
   <a href="http://www.github.com/swameher"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swameher&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p></br>
+</p>
 
 
 <h3 align="center">FIND ME ON</h1>
-
 <p align="center">
   <a href="https://www.github.com/swameher" target="_blank" rel="noreferrer"> 
     <picture>
@@ -57,7 +57,7 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" />
     </picture>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/swatimeher/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
