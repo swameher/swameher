@@ -12,7 +12,6 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
 </br>🌍  I'm based in Bangalore<br>
   🖥️  Click on snowflakes to explore my portfolio <a href="https://swameher.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" alt="Snowflake" width="25" height="25" /></a><br>
   🤝  I'm open to collaborating on interesting projects<br>
-  ⚡  I'm secretly a SpiderGirl, don't tell anyone.
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
