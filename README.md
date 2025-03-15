@@ -1,10 +1,28 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="44" height="44"/>
- Welcome to my GitHub! I'm Swati</h1>
-<h3 align="center">A Passionate Data Analyst</h3>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="44" height="44"/>
+  I'm Swati</h1>
+<h4 align="center">Data Analyst | SQL | Power BI | Predictive Modeling | React.js</h4>
 <p align="justified">
-  Data Analyst with over 2 years of hands-on experience in data manipulation, analysis, and visualization. My journey into the world of coding began 4 years ago when I decided to switch careers and dive into the fascinating realm of data science and analytics.</br>
-  
-My career pivot started with mastering the fundamental tools and techniques of a Data Analyst's tech stack. This foundational knowledge quickly ignited a deep-seated passion for data, leading me to further explore and specialize in this dynamic field. Over the years, I've developed a keen eye for detail and a meticulous approach to data handling, ensuring accuracy and insight in every project I undertake.
+ 
+#### About me:
+I'm a Experienced Data Analyst with over 3 years of expertise in data analysis, predictive modeling, and dashboard. Strong skills in SQL, Power BI, and Python for extracting insights and optimizing decision-making. Additionally, proficient in React.js and Tailwind CSS for front-end development, used in creating a data-driven portfolio.
+
+#### Core competencies:
+- Data Analysis & Insights – Identifying trends and patterns to drive business decisions.
+- SQL & Database Management – Writing optimized queries and managing large datasets.
+- Predictive Modeling – Building machine learning models for churn prediction, classification, and forecasting.
+- Dashboard Development – Designing interactive Power BI dashboards for reporting and analytics.
+
+#### Projects:
+- Customer Churn Prediction – Built a machine learning model using SQL Server, Power BI, and Python, analyzing churn drivers and retention strategies.
+- Product Analysis - Performing analyze in products to represent in front of stackholder.
+- Portfolio Website – Created a fully responsive portfolio using React.js and Tailwind CSS, showcasing data projects dynamically.
+
+#### Technical Skills"
+- Data & Analytics: SQL (PostgreSQL, SQL Server, MySQL), Python (Pandas, NumPy, Scikit-Learn), Power BI, Tableau, Excel (Advanced)
+- Machine Learning: Classification, Regression, Feature Engineering, Model Evaluation
+- Development: React.js, Tailwind CSS, Vercel
+- Cloud & Deployment: Azure (Basic)
+
 
 I believe in collaboration and knowledge sharing. Explore my projects, provide feedback, or reach out for collaborations. Let's use data for impactful change and innovation!
 </p>
@@ -14,31 +32,6 @@ I believe in collaboration and knowledge sharing. Explore my projects, provide f
   🤝  I'm open to collaborating on interesting projects<br>
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<h3 align="center">SKILLS</h3>
-<p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" height="30" alt="Python" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="30" height="30" alt="VS Code" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" height="30" alt="HTML5" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="30" height="30" alt="TailwindCSS" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" height="30" alt="CSS3" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="30" height="30" alt="Vite" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="30" height="30" alt="Django" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="30" height="30" alt="Amazon Web Services" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" height="30" alt="Docker" /></a>
-</p>
 
 <h3 align="center">BADGES</h3>
 <p align="center">
